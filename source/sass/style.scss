@@ -1,0 +1,8 @@
+$mobile-width-only: 320px;
+$desktop-width-only: 1200px;
+
+@import "./global/global.scss";
+@import "./blocks/page-header.scss";
+@import "./blocks/page-main.scss";
+@import "./blocks/page-footer.scss";
+@import "./blocks/modal.scss";
