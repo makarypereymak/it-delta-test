@@ -1,5 +1,7 @@
 'use stric';
 
+// не реализовал второй пост из-за неработающей ссылки в тз
+
 const listForPhotos =  document.querySelector('.page-main__block-6');
 const imgTemplate = document.querySelector('#template')
   .content
